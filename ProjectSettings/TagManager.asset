@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MyBullets
+  - enemy
+  - EnemyBullets
+  - Mybullets1
+  - Mybullets2
+  - Mybullets3
+  - Mybullets4
+  - Mybullets5
+  - Enemybullets1
+  - Enemybullets2
+  - Enemybullets3
+  - Enemybullets4
+  - Enter1
+  - Enter2
+  - Enter3
+  - Enter4
+  - Map1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - thruster enemy
+  - 
+  - ship enemy
+  - 
+  - 
+  - thruster player
+  - 
+  - ship player
+  - bullet enemy
+  - bullet player
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 4069384159
+    locked: 0
+  - name: thrusters
+    uniqueID: 227624659
+    locked: 0
+  - name: ships
+    uniqueID: 1763647849
+    locked: 0
